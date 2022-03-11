@@ -1,0 +1,7 @@
+Program açıldığında src  klasörü içerisinde bulunan Program.cpp dosyasını okur. Dosya yolu olarak fiziksel adres 
+verilmeyip direk projenin içerisinden okuyabilir. Okunan Program.cpp dosyası aşağıdaki gibi parçalanır:
+
+- Sınıflar listelenir.
+- Her sınıfın içerisinde bulunan ve sadece public olan metotlar listelenir.
+- Her public fonksiyonun kaç parametre aldığı ve türlerinin ne olduğu ve ne türden bir şey döndürdüğü yazar.
+- Kalıtım alınan sınıflar ve kaç kez alındıkları yazılır.
